@@ -1,0 +1,6 @@
+com\epam\rishabh\design\configuration\WebSecurity.class
+com\epam\rishabh\design\DesignApplication.class
+com\epam\rishabh\design\controllers\MathematicalOperations.class
+com\epam\rishabh\design\services\DoOperation.class
+com\epam\rishabh\design\services\InvalidOperationException.class
+com\epam\rishabh\design\domain\Operation.class
